@@ -15,6 +15,10 @@
 <img src="assets/git.png" width="30px"/>
 <img src="assets/postman.png" width="30px"/>
 <img src="assets/jenkins.png" width="30px"/>
+<img src="assets/mariaDB.png" width="30px"/>
+<img src="assets/mongoDB.png" width="30px"/>
+<img src="assets/jest.png" width="30px"/>
+<img src="assets/jira.png" width="30px"/>
 
 <h2> 📈 &nbsp;Github Stats</h2>
 
