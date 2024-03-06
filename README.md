@@ -1,16 +1,34 @@
-### Hi there 👋
+# <p align="center">✌️ Hey there, I'm Sérgio Lopes ✌️</p>
 
-<!--
-**Saol09/Saol09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <p align=center> <p align=center>👨🏽‍💻 Software Engineering 👨🏽‍💻</p><p align=center>Fullstack Developer</p></p>
 
-Here are some ideas to get you started:
+<h2> 🛠 Technolgies
+<p>
+<img src="assets/java.png" width="30px"/>
+<img src="assets/typescript.png" width="30px"/>
+<img src="assets/js.png" width="30px"/>
+<img src="assets/node-js.png" width="30px"/>
+<img src="assets/react.svg" width="30px"/>
+<img src="assets/cSharp.png" width="30px"/>
+<img src="assets/netCore.png" width="30px"/>
+<img src="assets/python.png" width="30px"/>
+<img src="assets/git.png" width="30px"/>
+<img src="assets/postman.png" width="30px"/>
+<img src="assets/jenkins.png" width="30px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 📈 &nbsp;Github Stats</h3>
+
+<a href="https://github.com/Saol09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saol09&theme=buefy&layout=compact" />
+</a>
+
+<h2> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sergiolopes07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sérgio%20Lopes-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:saol09@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saol09@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+<h2> 🔎 Visitors </h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Saol09" alt="Saol09" /> </p>
