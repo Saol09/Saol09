@@ -1,8 +1,8 @@
-# <p align="center">✌️ Hey there, I'm Sérgio Lopes ✌️</p>
+<h1 align="center">✌🏻 Hey there, I'm Sérgio Lopes ✌🏻
 
-# <p align=center> <p align=center>👨🏽‍💻 Software Engineering 👨🏽‍💻</p><p align=center>Fullstack Developer</p></p>
-
-<h2> 🛠 Technolgies
+<h1 align="center">👨🏽‍💻 Software Engineering 👨🏽‍💻<br>Fullstack Developer
+  
+<h2> 🛠 Technolgies </h2>
 <p>
 <img src="assets/java.png" width="30px"/>
 <img src="assets/typescript.png" width="30px"/>
@@ -16,13 +16,13 @@
 <img src="assets/postman.png" width="30px"/>
 <img src="assets/jenkins.png" width="30px"/>
 
-<h2> 📈 &nbsp;Github Stats</h3>
+<h2> 📈 &nbsp;Github Stats</h2>
 
 <a href="https://github.com/Saol09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saol09&theme=buefy&layout=compact" />
 </a>
 
-<h2> 🤝🏻 Connect with Me </h3>
+<h2> 🤝🏻 Connect with Me </h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sergiolopes07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sérgio%20Lopes-blue?style=flat-square&logo=linkedin"></a>
