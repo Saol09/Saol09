@@ -5,6 +5,7 @@
 <h2> 🛠 Technolgies </h2>
 <p>
 <img src="assets/java.png" width="30px"/>
+<img src="assets/quarkus.png" width="30px"/>
 <img src="assets/typescript.png" width="30px"/>
 <img src="assets/js.png" width="30px"/>
 <img src="assets/node-js.png" width="30px"/>
